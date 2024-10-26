@@ -23,8 +23,10 @@ const greeting = {
   title: "Google Developer Groups",
   university_name: "on Campus The University of Hong Kong",
   logo_name: "DIU",
-  subTitle: "A Google Developers program for university students to learn mobile and web development skills, design thinking skills and leadership skills.",
-  portfolio_repository: "https://github.com/Google-Developer-Groups-on-Campus-HKU/Google-Developer-Groups-on-Campus-HKU.github.io",
+  subTitle:
+    "A Google Developers program for university students to learn mobile and web development skills, design thinking skills and leadership skills.",
+  portfolio_repository:
+    "https://github.com/Google-Developer-Groups-on-Campus-HKU/Google-Developer-Groups-on-Campus-HKU.github.io",
   discord_link: "https://discord.gg/6cNcQreWj9",
   githubProfile: "https://github.com/Google-Developer-Groups-on-Campus-HKU",
 };
@@ -38,7 +40,8 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/xxx/",
+    link:
+      "https://www.linkedin.com/company/google-developer-groups-on-campus-the-university-of-hong-kong/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -47,7 +50,7 @@ const socialMediaLinks = [
     link: "https://discord.gg/6cNcQreWj9",
     fontAwesomeIcon: "fa-discord", // Reference https://fontawesome.com/icons/discord?style=brands
     backgroundColor: "#7289DA", // Reference https://simpleicons.org/?q=discord
-  }
+  },
 ];
 
 const skills = {
@@ -74,7 +77,7 @@ const skills = {
           },
         },
         {
-          skillName: "Google Colab", 
+          skillName: "Google Colab",
           fontAwesomeClassname: "devicon:googlecolab",
           style: {
             backgroundColor: "transparent",
@@ -156,8 +159,8 @@ const members = {
           link: "https://www.linkedin.com/in/aliceytlee/",
           fontAwesomeIcon: "fa-linkedin-in",
           backgroundColor: "#0077B5",
-        }
-      ]
+        },
+      ],
     },
     {
       name: "Pun King Fung",
@@ -175,18 +178,10 @@ const members = {
           link: "https://www.linkedin.com/in/king-fung-pun/",
           fontAwesomeIcon: "fa-linkedin-in",
           backgroundColor: "#0077B5",
-        }
-      ]
+        },
+      ],
     },
-  ]
-}
-
-
-export {
-  settings,
-  seo,
-  greeting,
-  socialMediaLinks,
-  skills,
-  members,
+  ],
 };
+
+export { settings, seo, greeting, socialMediaLinks, skills, members };
