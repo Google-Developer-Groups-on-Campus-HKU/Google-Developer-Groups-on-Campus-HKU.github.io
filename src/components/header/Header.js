@@ -2,8 +2,8 @@ import React, { Component } from "react";
 import "./Header.css";
 import { Fade } from "react-reveal";
 import { NavLink, Link } from "react-router-dom";
-import { greeting, settings } from "../../portfolio.js";
-import Logo from "../../assets/images/GDG On Campus - Horizontal.png"
+import { settings } from "../../portfolio.js";
+import Logo from "../../assets/images/GDG On Campus - Horizontal.png";
 import SeoHeader from "../seoHeader/SeoHeader";
 
 const onMouseEnter = (event, color) => {
@@ -26,7 +26,11 @@ class Header extends Component {
         <div>
           <header className="header">
             <NavLink to={link} tag={Link} className="logo">
-              <img src={Logo} alt="GDG On Campus - Horizontal" className="logo-name" />
+              <img
+                src={Logo}
+                alt="GDG On Campus - Horizontal"
+                className="logo-name"
+              />
             </NavLink>
             <input className="menu-btn" type="checkbox" id="menu-btn" />
             <label className="menu-icon" htmlFor="menu-btn">
