@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5277884f.chunk.css",
+    "main.js": "/static/js/main.74b57b97.chunk.js",
+    "main.js.map": "/static/js/main.74b57b97.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dd5cd25e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dd5cd25e.js.map",
+    "static/js/2.46aaffb4.chunk.js": "/static/js/2.46aaffb4.chunk.js",
+    "static/js/2.46aaffb4.chunk.js.map": "/static/js/2.46aaffb4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ef5e5a8b19ea4a672ef9000ba6d8ee08.js": "/precache-manifest.ef5e5a8b19ea4a672ef9000ba6d8ee08.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5277884f.chunk.css.map": "/static/css/main.5277884f.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/ArtificialIntelligenceImg.svg": "/static/media/ArtificialIntelligenceImg.72d6b799.svg",
+    "static/media/GDG On Campus - Horizontal.png": "/static/media/GDG On Campus - Horizontal.78b84fde.png",
+    "static/media/MobileImg.svg": "/static/media/MobileImg.19eb9984.svg",
+    "static/media/WebDevelopmentImg.svg": "/static/media/WebDevelopmentImg.dd187b1c.svg",
+    "static/media/diversity.svg": "/static/media/diversity.6391fd7f.svg",
+    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/video.gif": "/static/media/video.9f4e06eb.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd5cd25e.js",
+    "static/js/2.46aaffb4.chunk.js",
+    "static/css/main.5277884f.chunk.css",
+    "static/js/main.74b57b97.chunk.js"
+  ]
+}
